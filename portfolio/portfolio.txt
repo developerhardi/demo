@@ -1,0 +1,40 @@
+Here is my personal webiste link: https://www.hardishah.com/
+You can find some of my work under "Portfolio" section. Below is the details about my role and project each of the website. 
+
+1. https://inplacestudio.com/
+- This is ecommerce webiste which is fully developed by me using wordpress theme. 
+- Technolgies used: Bootstrap, Wordpress, Woocommerce and MySql.
+- Payment used: Stripe
+
+2. https://innovuratech.com/
+- This is company information webiste which is fully developed by me using wordpress theme.  
+- Technolgies I am using in this project: Bootstrap, Wordpress and MySql.
+
+3. https://yera.com/
+- This is ecommerce information webiste which is fully developed by me using wordpress theme.  
+- Technolgies I am using in this project: Bootstrap, Wordpress, Woocommerce and MySql.
+
+4. https://www.bluemagiclinic.com/
+- This is company information webiste which is fully developed and design by me. 
+- Technolgies I am using in this project: Bootstrap, Wordpress and MySql.
+- In this I have developed custom wordpress theme from HTML and using ACF and CPT-UI plugins convert this to user friednly admin panel.
+
+5. https://theogtrade.com/
+- This is ecommerce webiste which is fully developed by me using wordpress theme.  
+- Technolgies I am using in this project: Bootstrap, Wordpress, Woocommerce and MySql.
+- Payment gateway I am using in this project: Stripe
+
+6. https://koshatechnohub.com/
+- This is company information webiste which is fully developed and design by me. 
+- Technolgies I am using in this project: Bootstrap, Wordpress and MySql.
+
+7. http://www.vivaane.com/
+- This is company information webiste which is fully developed and design by me. 
+- Technolgies I am using in this project: Bootstrap, Wordpress and MySql.
+
+8. https://trunnkinlove.com/
+- This is company information webiste which is fully developed and design by me. 
+- Technolgies I am using in this project: Bootstrap, Wordpress and MySql.
+
+=> Apart from this I am using Contact form 7, Gravity form, ACF, CPT-UI, Slider plugins etc. Also developed custom plugin for country-city management and subscription module. 
+=> Also, I can develop custom Wordpress/Woocommerce theme from HTML and working with Child theme and hooks.
