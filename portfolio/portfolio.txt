@@ -1,0 +1,42 @@
+Please visit my personal website : https://www.hardishah.com/
+My work is under "Portfolio" section so you may have details view.
+
+Below are the details about my role on each of the website.
+
+1. https://inplacestudio.com/
+- This is e-commerce website which is entirely developed by me in WordPress (used WordPress theme).
+- Technology used: Bootstrap, WordPress, Woocommerce and MySQL.
+- Payment type used: Stripe
+
+2. https://innovuratech.com/
+- This is company information website which is entirely developed by me in WordPress (used WordPress theme).
+- Technology used: Bootstrap, WordPress and MySQL.
+
+3. https://yera.com/
+- This is e-commerce information website which is entirely developed by me in WordPress (used WordPress theme).
+- Technology used: Bootstrap, WordPress, Woocommerce and MySQL.
+
+4. https://www.bluemagiclinic.com/
+- This is company information website which is entirely developed and design by me.
+- Technology used: Bootstrap, WordPress and MySQL.
+- In this I have developed custom WordPress theme from HTML and using ACF and CPT-UI plugins convert. This for user friendly admin panel.
+
+5. https://theogtrade.com/
+- This is e-commerce website which is entirely developed by me in WordPress (used WordPress theme).
+- Technology used: Bootstrap, WordPress, Woocommerce and MySQL.
+- Payment gateway I am using in this project: Stripe
+
+6. https://koshatechnohub.com/
+- This is company information website which is entirely developed and design by me.
+- Technology used: Bootstrap, WordPress and MySQL.
+
+7. http://www.vivaane.com/
+- This is company information website which is entirely developed and design by me.
+- Technology used: Bootstrap, WordPress and MySQL.
+
+8. https://trunnkinlove.com/
+- This is company information website which is entirely developed and design by me.
+- Technology used: Bootstrap, WordPress and MySQL.
+
+=> Apart from this I am using Contact form 7, Gravity form, ACF, CPT-UI, Slider plugins etc. Also developed custom plugin for country-city management and subscription module.
+=> Also, I can develop custom WordPress/Woocommerce theme from HTML and working with Child theme and hooks.
